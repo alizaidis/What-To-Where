@@ -1,3 +1,3 @@
-# whattowear
+# What-To-Where
 
 The goal is to create a website that has a Google Maps-esque frame with a fully functioning Google Maps embedded in it, the difference being every place will have the ability to have metadata added to it. For instance, say there's this fancy restaurant called Florpnozzle and one would like to see if they have a certain dress code, they could search for the said restaurant, click on it as it shows up in the Google Maps frame and check out the recommended dress code. If you're an authorized user on the site, you can add/edit the dress code. See where this is going?
